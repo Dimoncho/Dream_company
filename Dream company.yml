@@ -1,0 +1,115 @@
+---
+company:
+  company_name: "Мечта"
+  departments:
+    department1:
+      slary level: самый высокооплачиваемый
+      staff:
+        employee1:
+          name: Оля
+          job: возможно бухгалтер
+          age:
+        employee2:
+          name: Оля
+          job: возможно бухгалтер
+          age:
+        employee3:
+          name: Оля
+          job: возможно бухгалтер
+          age:
+        employee4:
+          name: Оля
+          job: возможно бухгалтер
+          age:
+        employee5:
+          name: Дмитрий
+          job:
+          age:
+        employee6:
+          name: Дмитрий
+          job:
+          age:
+        employee7:
+          name: Дмитрий
+          job:
+          age:
+        employee8:
+          name: Иван
+          job:
+          age:
+        employee9:
+          name: Иван
+          job:
+          age:
+    department2:
+      slary level: обычный
+      staff:
+        employee1:
+          name: Роман
+          job: Юрист
+          age: до 30
+        employee2:
+          name: Роман
+          job: Юрист
+          age: до 30
+        employee3:
+          name: Роман
+          job: Юрист
+          age: до 30
+        employee4:
+          name: Роман
+          job: Юрист
+          age: до 30
+        employee5:
+          name: Максим
+          job: Водитель
+          age: до 30
+        employee6:
+          name: Максим
+          job: Водитель
+          age: до 30
+    department3:
+      slary level: обычный
+      staff:
+        employee1:
+          name: Оля
+          job: Юрист
+          age:
+        employee2:
+          name: Иван
+          job: Строитель
+          age:
+        employee3:
+          name: Николай
+          job: Строитель
+          age:
+    department4&5:
+      slary level: на втором месте по уровню оплаты
+      staff:
+        employee1:
+          name: Юля
+          job: работа с бумагами
+          age: немного за 30
+        employee2:
+          name: Юля
+          job: работа с бумагами
+          age: немного за 30
+        employee3:
+          name: Юля
+          job: работа с бумагами
+          age: немного за 30
+        employee4:
+          name: Юля
+          job: работа с бумагами
+          age: немного за 30
+        employee5:
+          name: Юля
+          job: работа с бумагами
+          age: немного за 30
+    department6:
+      slary level: обычный
+      staff:
+        employee1:
+          name: Игорь Викторович
+          job: директор по безопасности
+          age: далеко за 50
